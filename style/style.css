@@ -1,0 +1,12 @@
+.btn-danger{
+    background-color: blue;
+  
+}
+.btn-danger:hover{
+    background-color: burlywood;
+    transform: scale(1.5) ;
+}
+.col{
+    background-color: grey;
+    border: 2px solid black;
+}
